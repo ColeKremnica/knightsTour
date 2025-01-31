@@ -1,2 +1,2 @@
 # knightsTour
-# This code demonstrates usage of linkedGrids in java.
+This code demonstrates usage of linkedGrids in java.
